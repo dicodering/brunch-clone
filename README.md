@@ -13,6 +13,7 @@ https://dicodering.github.io/brunch-clone/brunch/
 <br/><br/>
 
 ## 💡 Main Features
+* ✅ 레이아웃 구성
 * ✅ 동적 이벤트
 <br/><br/>
 
